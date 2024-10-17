@@ -10,7 +10,7 @@ Release:       %mkrel 1
 Summary:       A package for providing free/busy information
 License:       LGPL
 Group:         Networking/Mail
-Url:           http://pear.horde.org/index.php?package=%{prj}
+Url:           https://pear.horde.org/index.php?package=%{prj}
 Source0:       %{prj}-%{version}.tgz
 BuildArch:     noarch
 PreReq:        %{_bindir}/pear
